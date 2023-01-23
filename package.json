@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "1f50418d-4d00-453e-bf57-814b8def0a61",
+    "appType": "app",
+    "appDisplayName": "ConwaysGameOfLife",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#03a9f4",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira",
+      "higgs",
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "ConwaysGameOfLife"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
