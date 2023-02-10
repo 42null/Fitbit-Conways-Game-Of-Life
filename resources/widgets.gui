@@ -4,6 +4,6 @@
     <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
   </defs>
     <g>
-    <image href="icon.png" width="100%" height="100%" x="0" y="0"/>
+    <image href="icon.png" width="100%" height="100%" x="0" y="0" fill="#ff00ff"/>
   </g>
 </svg>
